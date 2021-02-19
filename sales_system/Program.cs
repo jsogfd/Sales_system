@@ -43,7 +43,18 @@ namespace sales_system
 
             //What is the total of all sales?
 
-          
+            int TotalSales = 0;
+
+            if (sale1.product.Price != 0)
+            {
+                TotalSales = sale1.product.Price;
+            }
+            if (sale2.product.Price != 0)
+            {
+                TotalSales += sale2.product.Price;
+            }
+
+            System.Console.WriteLine("Total sales free taxes is: " + TotalSales);
         }
     }
 }

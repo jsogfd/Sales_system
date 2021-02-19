@@ -9,9 +9,5 @@ namespace sales_system.Class
         public string NameProduct;
         public int Price;
 
-        public static implicit operator string(Product v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.csprojAssemblyReference.cache
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.AssemblyInfo.cs
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.exe
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.deps.json
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.runtimeconfig.json
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.runtimeconfig.dev.json
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.dll
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\bin\Debug\netcoreapp3.1\sales_system.pdb
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.dll
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.pdb
+C:\Users\Sebastián\Documents\Programing 3\Proyects\sales_system\sales_system\obj\Debug\netcoreapp3.1\sales_system.genruntimeconfig.cache
